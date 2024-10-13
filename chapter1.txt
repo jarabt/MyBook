@@ -1,1 +1,2 @@
-Hello, this is my first chapter, I like it.
+Hello, this is my first chapter, I like it. 
+I added some words.
